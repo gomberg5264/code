@@ -43,7 +43,7 @@
     "validator": "^10.11.0"
   },
   "devDependencies": {
-    "html-entities": "^1.2.1",
+    "html-entities": "^2.3.2",
     "jest": "^24.9.0",
     "striptags": "^3.1.1"
   }
