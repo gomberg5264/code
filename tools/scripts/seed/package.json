@@ -19,7 +19,7 @@
   "homepage": "https://github.com/freeCodeCamp/freeCodeCamp#readme",
   "devDependencies": {
     "debug": "^4.0.1",
-    "dotenv": "^6.0.0",
+    "dotenv": "^9.0.2",
     "jest": "^24.9.0",
     "lodash": "^4.17.19",
     "mongodb": "^3.5.5"
