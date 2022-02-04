@@ -63,7 +63,7 @@
     "cypress": "^4.11.0",
     "debug": "^4.2.0",
     "docsify-cli": "^4.4.1",
-    "dotenv": "^6.2.0",
+    "dotenv": "^16.0.0",
     "eslint": "^5.16.0",
     "eslint-config-prettier": "^4.3.0",
     "eslint-plugin-babel": "^5.3.1",
